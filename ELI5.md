@@ -50,6 +50,8 @@
     * Concept of routing
     * ORMs/ODMs
   * Multithreading/Concurrency 
+  * System design
+    * experts, add some stuff here
 
 ## Things we have all or will all experience
   * JavaScript fatigue
