@@ -19,7 +19,10 @@
  
 ## Software Engineering
   * OOP
-  * Polymorphism
+    * Polymorphism
+    * Classes
+    * Inheritance
+    * etc (add more here)
   * API’s vs Framework vs Library
   * SQL vs NoSQL databases
     * Fundamentals of each 
