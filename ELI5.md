@@ -57,6 +57,18 @@
   * Multithreading/Concurrency 
   * System design
     * experts, add some stuff here
+  * SOLID Fundamentals
+  * Agile development
+  * Test Driven Development
+  * Build Automation
+    * Apache Maven
+  * Continous Integration / Continous Development
+    * Jenkins
+      * automating software deployment
+    * Webhooks (Can also be apart of Bitbucket Integration)
+  * Bitbucket Integration
+    * JIRA Tickets
+  * Command line basics
     
 
 ## Things we have all or will all experience
@@ -64,3 +76,8 @@
   * Having 60 tabs open at once
   * Refreshing Stack Overflow
   * That one friend who is the “idea guy”
+  * Communicating ideas properly
+  * Being able to help with a field not uniquely your own (ex:) Developer -> Devops
+  * Dependency hell
+  * Fundamental stuff eventually blowing up
+  * Having a sense of humor, but a thick skin too
