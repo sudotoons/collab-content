@@ -30,11 +30,38 @@
 ## Software Engineering
   * OOP
     * Polymorphism
-    * Classes
+    * Classes/Encapsulation
     * Inheritance
     * etc (add more here)
     * pass by value vs pass by reference
     * overloading vs overriding
+  * Design Patterns
+    * Creational
+        * Abstract Factory
+        * Builder
+        * Factory Method
+        * Prototype
+        * Singleton
+    * Structural
+        * Adapter
+        * Bridge
+        * Composite
+        * Decorator
+        * Facade
+        * Flyweight
+        * Proxy
+    * Behavioral
+        * Chain of Responsibility
+        * Command
+        * Interpreter
+        * Iterator
+        * Mediator
+        * Memento
+        * Observer
+        * State
+        * Strategy
+        * Template Method
+        * Visitor
   * API’s vs Framework vs Library
     * opnionated vs nonopinionated
   * SQL vs NoSQL databases
@@ -69,6 +96,17 @@
     * ORMs/ODMs
   * Multithreading/Concurrency 
   * System design
+    * experts, add some stuff here
+  * Principles
+    * SOLID Fundamentals
+        * Single Responsibility
+        * Open/Closed
+        * Liskov Substitution
+        * Interface Segregation
+        * Dependency Inversion
+    * Command-Query Separation
+    * YAGNI (You Aren't Gonna Need It)
+    * DRY (Don't Repeat Yourself)
     * C fundamentals (pointers, memory management, etc...)
     * Compiler, assembler, machine language (GCC, LLVM, clang)
     * Caching
