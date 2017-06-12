@@ -39,6 +39,8 @@
     * TCP/UDP
     * Ports
     * “THE CLOUD!”
+    * How web browsers work
+      * what happens when you hit "enter" into the search bar
   * Software architecture patterns
     * MVC
     * MVP
