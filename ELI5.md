@@ -5,13 +5,23 @@
     * Queue
     * LinkedList
     * Dictionary
+    * Tree (binary, self balancing, B+)
+    * Heap
   * Algorithms
     * Linear search
     * Binary search
-    * BFS
-    * DFS
-    * Dijkstra
-    * Kruskal
+    * Graph Theory
+      * BFS
+      * DFS
+      * Dijkstra
+      * Kruskal
+      * Min/max flow
+      * Spanning trees
+      * Eulerian vs Hamiltonian cycles/circuits
+      * Weighted graphs
+    * Sorting (bubble, heap, merge, quick, topological, etc...)
+    * Math intensive (machine learning)
+    * Dynamic programming (memoization)
     * more …
   * Recursion
   * Print vs. return
@@ -57,6 +67,7 @@
   * SQL vs NoSQL databases
     * Fundamentals of each 
     * When to use which 
+    * Database indexing
   * Basics of the internet
     * DNS
     * IP
@@ -68,6 +79,7 @@
     * “THE CLOUD!”
     * How web browsers work
       * what happens when you hit "enter" into the search bar
+    * Web sockets/PubSub pattern
   * Software architecture patterns
     * MVC
     * MVP
@@ -75,7 +87,8 @@
     * VIPER
   * Asynchronous programming
   * Imperative vs. Declarative programming
-  * Higher order functions
+  * Higher order functions (functional programming)
+  * Static vs dynamic languages (c, java, etc... vs js, python, ruby, etc...)
   * REST/RESTful APIs
   * JSON
   * Basics of Web Frameworks
@@ -94,6 +107,16 @@
     * Command-Query Separation
     * YAGNI (You Aren't Gonna Need It)
     * DRY (Don't Repeat Yourself)
+    * C fundamentals (pointers, memory management, etc...)
+    * Compiler, assembler, machine language (GCC, LLVM, clang)
+    * Caching
+    * File storage
+    * OS Design/Architecture
+    * Web servers
+    * Load balancers
+    * Shell
+    * Benchmarking (throughput vs latency)
+  * SOLID Fundamentals
   * Agile development
   * Test Driven Development
   * Build Automation
@@ -105,7 +128,6 @@
   * Bitbucket Integration
     * JIRA Tickets
   * Command line basics
-    
 
 ## Things we have all or will all experience
   * JavaScript fatigue
