@@ -62,6 +62,12 @@
         * Strategy
         * Template Method
         * Visitor
+  * Functional programming
+    * Higher order functions
+    * Pure functions
+    * Functors
+    * Composition
+    * Currying
   * API’s vs Framework vs Library
     * opnionated vs nonopinionated
   * SQL vs NoSQL databases
