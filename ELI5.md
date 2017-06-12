@@ -26,6 +26,7 @@
     * pass by value vs pass by reference
     * overloading vs overriding
   * API’s vs Framework vs Library
+    * opnionated vs nonopinionated
   * SQL vs NoSQL databases
     * Fundamentals of each 
     * When to use which 
