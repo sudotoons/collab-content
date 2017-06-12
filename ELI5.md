@@ -20,11 +20,38 @@
 ## Software Engineering
   * OOP
     * Polymorphism
-    * Classes
+    * Classes/Encapsulation
     * Inheritance
     * etc (add more here)
     * pass by value vs pass by reference
     * overloading vs overriding
+  * Design Patterns
+    * Creational
+        * Abstract Factory
+        * Builder
+        * Factory Method
+        * Prototype
+        * Singleton
+    * Structural
+        * Adapter
+        * Bridge
+        * Composite
+        * Decorator
+        * Facade
+        * Flyweight
+        * Proxy
+    * Behavioral
+        * Chain of Responsibility
+        * Command
+        * Interpreter
+        * Iterator
+        * Mediator
+        * Memento
+        * Observer
+        * State
+        * Strategy
+        * Template Method
+        * Visitor
   * API’s vs Framework vs Library
     * opnionated vs nonopinionated
   * SQL vs NoSQL databases
@@ -57,6 +84,27 @@
   * Multithreading/Concurrency 
   * System design
     * experts, add some stuff here
+  * Principles
+    * SOLID Fundamentals
+        * Single Responsibility
+        * Open/Closed
+        * Liskov Substitution
+        * Interface Segregation
+        * Dependency Inversion
+    * Command-Query Separation
+    * YAGNI (You Aren't Gonna Need It)
+    * DRY (Don't Repeat Yourself)
+  * Agile development
+  * Test Driven Development
+  * Build Automation
+    * Apache Maven
+  * Continous Integration / Continous Development
+    * Jenkins
+      * automating software deployment
+    * Webhooks (Can also be apart of Bitbucket Integration)
+  * Bitbucket Integration
+    * JIRA Tickets
+  * Command line basics
     
 
 ## Things we have all or will all experience
@@ -64,3 +112,8 @@
   * Having 60 tabs open at once
   * Refreshing Stack Overflow
   * That one friend who is the “idea guy”
+  * Communicating ideas properly
+  * Being able to help with a field not uniquely your own (ex:) Developer -> Devops
+  * Dependency hell
+  * Fundamental stuff eventually blowing up
+  * Having a sense of humor, but a thick skin too
