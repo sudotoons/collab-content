@@ -23,6 +23,8 @@
     * Classes
     * Inheritance
     * etc (add more here)
+    * pass by value vs pass by reference
+    * overloading vs overriding
   * API’s vs Framework vs Library
   * SQL vs NoSQL databases
     * Fundamentals of each 
@@ -52,6 +54,7 @@
   * Multithreading/Concurrency 
   * System design
     * experts, add some stuff here
+    
 
 ## Things we have all or will all experience
   * JavaScript fatigue
