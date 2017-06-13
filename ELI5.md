@@ -13,19 +13,26 @@
     * Graph Theory
       * BFS
       * DFS
+      * Bellman-Ford
       * Dijkstra
+      * Floyd-Warshall
       * Kruskal
-      * Min/max flow
+      * Prim
+      * Min cut/max flow
       * Spanning trees
       * Eulerian vs Hamiltonian cycles/circuits
       * Weighted graphs
+      * Directed acyclic graphs (DAGs)
     * Sorting (bubble, heap, merge, quick, topological, etc...)
     * Math intensive (machine learning)
     * Dynamic programming (memoization)
+    * Greedy algorithms
     * more …
   * Recursion
   * Print vs. return
   * Boolean operations
+  * Time complexity (big O, etc.)
+  * Computational complexity (P vs. NP, etc...)
  
 ## Software Engineering
   * OOP
@@ -75,6 +82,7 @@
     * When to use which 
     * Database indexing
   * Basics of the internet
+    * Packets and routing
     * DNS
     * IP
     * HTTP
@@ -134,6 +142,11 @@
   * Bitbucket Integration
     * JIRA Tickets
   * Command line basics
+  * Computer security
+    * Basic exploits (e.g. buffer overflow, etc.)
+    * Symmetric encryption (e.g. private key encryption)
+    * Asymmetric encryption (e.g. RSA cryptosystem)
+    * Digital signatures
 
 ## Things we have all or will all experience
   * JavaScript fatigue
