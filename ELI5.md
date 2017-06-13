@@ -1,4 +1,9 @@
 ## Computer science fundamentals
+  * Basics
+    * Variables
+    * Conditionals
+    * Loops
+    * Functions
   * Data Structures
     * Array
     * Stack
