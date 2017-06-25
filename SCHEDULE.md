@@ -4,7 +4,7 @@ This is the tentative but proposed schedule for topics to be covered initially. 
 ## Topics
   ### Basic OOP
   1. Print vs. Return
-    * we will explai the actual function (no pun intended) of returning something, and what it means when something appears on the screen
+    * we will explain the actual function (no pun intended) of returning something, and what it means when something appears on the screen
   2. What is a class
   3. The concept of Abstraction
   
